@@ -2,7 +2,7 @@
 Alejandro Diaz Galache
 
 ## 2.1 REPOSITORIO CAMPUSCIFF
-Creamos el repositorio de trabajo en GitHub
+Creamos el repositorio de trabajo en GitHub. Aprovechamos la operación para generar el fichero README.md.
 (INCLUIR IMAGEN)
 
 ```
@@ -20,3 +20,8 @@ Al crear el repositorio remoto campusciff, ya incluimos el fichero README.md, po
 
 ## 2.3 COMMIT Y PUSH INICIAL
 
+```
+# git add .
+# git commit -m "commit inicial"
+(INCLUIR IMAGEN 02)
+```
