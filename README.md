@@ -24,4 +24,22 @@ Al crear el repositorio remoto campusciff, ya incluimos el fichero README.md, po
 # git add .
 # git commit -m "commit inicial"
 (INCLUIR IMAGEN 02)
+# git push origin master
 ```
+
+## 2.4 IGNORAR ARCHIVOS
+
+```
+# touch privado.txt
+# mkdir privada
+# vim .gitignore
+(INCLUIR IMAGEN 04)
+```
+
+## 2.5 CREAR EL TAG V0.1
+
+```
+# touch 1.txt
+
+
+
