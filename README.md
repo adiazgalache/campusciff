@@ -40,6 +40,9 @@ Al crear el repositorio remoto campusciff, ya incluimos el fichero README.md, po
 
 ```
 # touch 1.txt
+# git add .
+# git commit -m "commit ejercicio 2.5"
+# git tag -a v0.1 -m "etiqueta ejercicio 2.5"
 
 
 
