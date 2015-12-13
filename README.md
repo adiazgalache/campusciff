@@ -122,7 +122,7 @@ Nos posicionamos de nuevo en rama master y mergeamos provocando el conflicto.
 # git merge v0.2
 ```
 
-(IMAGEN 07)
+![Merge con conflicto](https://github.com/adiazgalache/campusciff/blob/master/img/07.png)
 
 Listamos las ramas con merge (--merged) y sin merge (--no-merged)
 
@@ -131,7 +131,7 @@ Listamos las ramas con merge (--merged) y sin merge (--no-merged)
 # git branch --no-merged
 ```
 
-(IMAGEN 08)
+![merged y no merged](https://github.com/adiazgalache/campusciff/blob/master/img/08.png)
 
 Solucionamos el conflicto
 
@@ -151,7 +151,7 @@ Solucionamos el conflicto
 # git list
 ``` 
 
-(IMAGEN 09)
+![salida git list](https://github.com/adiazgalache/campusciff/blob/master/img/09.png)
 
 Borramos rama v0.2
 
@@ -159,21 +159,21 @@ Borramos rama v0.2
 # git branch -d v0.2
 ```
 
-(IMAGEN 10)
+![salida git branch -d](https://github.com/adiazgalache/campusciff/blob/master/img/10.png)
 
 ## 2.10 CUENTA DE GITHUB
 
 Procedemos a configurar la cuenta github:
 
-(IMAGEN 11)
+![configuracion github profile](https://github.com/adiazgalache/campusciff/blob/master/img/11.png)
 
 Configuración del doble factor de autentificación via SMS:
 
-(IMAGEN 12)
+![configuracion github auth](https://github.com/adiazgalache/campusciff/blob/master/img/12.png)
 
 Y por último añadimos la clave pública del pc desde el que conectamos:
 
-(IMAGEN 13)
+![configuracion github ssh keys](https://github.com/adiazgalache/campusciff/blob/master/img/13.png)
 
 ## 2.11 USO SOCIAL DE GITHUB
 
