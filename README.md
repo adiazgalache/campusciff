@@ -1,10 +1,14 @@
 # EJERCICIOS GIT, GITHUB Y MARKDOWN
 Alejandro Diaz Galache
 
+> La práctica completa esta realizada sobre un entorno virtual montado con sistema operativo Linux distribución Ubuntu 14.04.
+
 ## 2.1 REPOSITORIO CAMPUSCIFF
 Creamos el repositorio de trabajo en GitHub. Aprovechamos la operación para generar el fichero README.md.
 
 ![Repositorio Github](https://github.com/adiazgalache/campusciff/blob/master/img/01.png)
+
+Clonamos ahora en local.
 
 ```
 # cd ~
@@ -24,9 +28,13 @@ Al crear el repositorio remoto campusciff, ya incluimos el fichero README.md, po
 ```
 # git add .
 # git commit -m "commit inicial"
-(INCLUIR IMAGEN 02)
 # git push origin master
 ```
+
+![Primer Commit](https://github.com/adiazgalache/campusciff/blob/master/img/02.png)
+
+
+![Primer Push](https://github.com/adiazgalache/campusciff/blob/master/img/0333.png)
 
 ## 2.4 IGNORAR ARCHIVOS
 
@@ -37,6 +45,10 @@ Generamos el fichero y directorio a omitir. Posteriormente configuramos el fiche
 # mkdir privada
 # vim .gitignore
 ```
+
+El contenido del fichero .gitignore:
+
+
 
 ## 2.5 CREAR EL TAG V0.1
 
