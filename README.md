@@ -225,10 +225,9 @@ Realizo un fork a los siguientes repositorios:
 
 Creo los branch "cambioalex" asociados a las copias y realizo los cambios en los index.html antes de las operaciones pull request.
 
-Realizamos los pull request sobre los repositorios contribuidos de los compañeros.
-
 ![github pull request](https://github.com/adiazgalache/campusciff/blob/master/img/15.png)
 
+Realizamos los pull request sobre los repositorios contribuidos de los compañeros.
 
 ![Repositorio Github](https://github.com/adiazgalache/campusciff/blob/master/img/19.png)
 
