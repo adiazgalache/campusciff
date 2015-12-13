@@ -39,6 +39,8 @@ Generamos el fichero y directorio a omitir. Posteriormente configuramos el fiche
 
 ## 2.5 CREAR EL TAG V0.1
 
+Creamos un fichero en 1.txt sin contenido y subimos los cambios al repositorio remoto.
+
 ```
 # touch 1.txt
 # git add .
@@ -170,7 +172,7 @@ A continuación la tabla con 3 compañero de clase:
 
 Nombre | Github
 ------- | -------
-macarenagaranena | http://github.com/macarenagarena 
+macarenagaranena | http://github.com/macarenagaranena 
 Miriam-Asenjo | http://github.com/Miriam-Asenjo
 Danielobit | http://github.com/Danielobit
 
@@ -180,9 +182,11 @@ Añadimos a asanzdiego como colaborador.
 
 ## 2.14 CREAR UNA ORGANIZACIÓN
 
-campusciff-adiazgalache
+Desde GitHub creo la orgcampusciff-adiazgalache.
 
 ## 2.15 CREAR EQUIPOS
+
+
 
 ## 2.16 CREAR UN INDEX.HTML
 
@@ -199,4 +203,8 @@ Este es el enlace resultante de la organización: [pincha aqui](http://campuscif
 
 ## 2.17 CREAR PULL-REQUEST
 
- 
+Realizo un fork a los siguientes repositorios:
+
+- Danielobit/campusciff-2015-1.github.io
+- campusciff-Miriam-Asenjo/campusciff-Miriam-Asenjo.github.io
+
