@@ -3,7 +3,8 @@ Alejandro Diaz Galache
 
 ## 2.1 REPOSITORIO CAMPUSCIFF
 Creamos el repositorio de trabajo en GitHub. Aprovechamos la operación para generar el fichero README.md.
-(INCLUIR IMAGEN)
+
+![Repositorio Github](https://github.com/adiazgalache/campusciff/blob/master/img/01.png)
 
 ```
 # cd ~
@@ -208,3 +209,12 @@ Realizo un fork a los siguientes repositorios:
 - Danielobit/campusciff-2015-1.github.io
 - campusciff-Miriam-Asenjo/campusciff-Miriam-Asenjo.github.io
 
+Creo los branch "cambioalex" asociados a las copias y realizo los cambios en los index.html antes de las operaciones pull request.
+
+(IMAGEN 15)
+
+Realizamos los pull request sobre los repositorios contribuidos de los compañeros.
+
+## 2.18 GESTIONAR PULL REQUEST
+
+Gestionados.
