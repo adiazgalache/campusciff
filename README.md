@@ -34,7 +34,7 @@ Al crear el repositorio remoto campusciff, ya incluimos el fichero README.md, po
 ![Primer Commit](https://github.com/adiazgalache/campusciff/blob/master/img/02.png)
 
 
-![Primer Push](https://github.com/adiazgalache/campusciff/blob/master/img/0333.png)
+![Primer Push](https://github.com/adiazgalache/campusciff/blob/master/img/03.png)
 
 ## 2.4 IGNORAR ARCHIVOS
 
@@ -48,7 +48,7 @@ Generamos el fichero y directorio a omitir. Posteriormente configuramos el fiche
 
 El contenido del fichero .gitignore:
 
-
+![Fichero .gitignore](https://github.com/adiazgalache/campusciff/blob/master/img/04.png)
 
 ## 2.5 CREAR EL TAG V0.1
 
@@ -70,9 +70,6 @@ Empujamos tag v0.1 a repositorio remoto
 ```
 
 ## 2.6 CREAR UNA RAMA REMOTA V0.2
-
-Creamos una rama remota v0.2 en Github
-(IMAGEN 05)
 
 Creamos y cambiamos de rama a v0.2
 
@@ -98,7 +95,8 @@ Posicionados en el branch master hacemos un merge de v0.2
 # git checkout master
 # git merge v0.2
 ```
-(IMAGEN 06)
+
+![Merge directo](https://github.com/adiazgalache/campusciff/blob/master/img/06.png)
 
 ## 2.8 MERGE CON CONFLICTO
 
