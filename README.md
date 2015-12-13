@@ -177,6 +177,8 @@ Y por último añadimos la clave pública del pc desde el que conectamos:
 
 ## 2.11 USO SOCIAL DE GITHUB
 
+![configuracion github uso social](https://github.com/adiazgalache/campusciff/blob/master/img/16.png)
+
 ## 2.12 CREAR TABLA
 
 A continuación la tabla con 3 compañero de clase:
@@ -195,9 +197,11 @@ Añadimos a asanzdiego como colaborador.
 
 Desde GitHub creo la orgcampusciff-adiazgalache.
 
+![github organizacion](https://github.com/adiazgalache/campusciff/blob/master/img/17.png)
+
 ## 2.15 CREAR EQUIPOS
 
-
+![github teams](https://github.com/adiazgalache/campusciff/blob/master/img/18.png)
 
 ## 2.16 CREAR UN INDEX.HTML
 
@@ -221,9 +225,12 @@ Realizo un fork a los siguientes repositorios:
 
 Creo los branch "cambioalex" asociados a las copias y realizo los cambios en los index.html antes de las operaciones pull request.
 
-(IMAGEN 15)
-
 Realizamos los pull request sobre los repositorios contribuidos de los compañeros.
+
+![github pull request](https://github.com/adiazgalache/campusciff/blob/master/img/15.png)
+
+
+![Repositorio Github](https://github.com/adiazgalache/campusciff/blob/master/img/19.png)
 
 ## 2.18 GESTIONAR PULL REQUEST
 
